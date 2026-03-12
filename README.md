@@ -22,7 +22,7 @@
 *Daily closing prices of gold and silver standardized for comparison.*
 
 ### Figure 2: Autocorrelation Functions (ACF) of Log-Transformed Prices
-![Figure 2: ACF of Log-Transformed Gold & Silver Prices](./images/figure2_acf.png)  
+![Figure 2: ACF of Log-Transformed Gold & Silver Prices](./visualizations/Autocorrelation.png.png)  
 *Autocorrelation analysis of log-transformed gold and silver prices to detect seasonality and persistence.*
 
 ---
