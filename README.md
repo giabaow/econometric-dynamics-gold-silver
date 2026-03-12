@@ -18,11 +18,11 @@
 ## 📈 Visualizations
 
 ### Figure 1: Standardized Gold & Silver Price Series
-![Figure 1: Standardized Gold and Silver Prices](./visualizations/Time series of gold and silver closing price.png)  
+![Figure 1: Standardized Gold and Silver Prices](./visualization/closing_price.png)  
 *Daily closing prices of gold and silver standardized for comparison.*
 
 ### Figure 2: Autocorrelation Functions (ACF) of Log-Transformed Prices
-![Figure 2: ACF of Log-Transformed Gold & Silver Prices](./visualizations/Autocorrelation.png.png)  
+![Figure 2: ACF of Log-Transformed Gold & Silver Prices](./visualization/Autocorrelation.png.png)  
 *Autocorrelation analysis of log-transformed gold and silver prices to detect seasonality and persistence.*
 
 ---
